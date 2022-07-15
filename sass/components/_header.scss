@@ -1,9 +1,8 @@
 .header {
-    border-bottom: 1px solid $border-color;
-  
-    &__container {
-      display: flex;
-      justify-content: space-between;
-    }
+  border-bottom: 1px solid $border-color;
+
+  &__container {
+    display: flex;
+    justify-content: space-between;
   }
-  
+}
